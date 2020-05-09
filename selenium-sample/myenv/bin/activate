@@ -85,5 +85,5 @@ fi
 
 
 
-export SECRET_USER='italoperezdev@gmail.com'
-export SECRET_PSW='g00147441'
+export SECRET_USER='******'
+export SECRET_PSW='****'
